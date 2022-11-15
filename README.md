@@ -1,4 +1,4 @@
-# Knox_Portfolio Data analyst Projects
+# Knox Portfolio Data analyst Projects
 Example of data analyst projects
 
 
